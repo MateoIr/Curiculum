@@ -1,0 +1,10 @@
+{
+  "AboutMe": {
+    "message": "Hola! Soy Mateo Iriso, estudiante de Analista en Sistemas. Estudiante especializado en Front end, me especializo en React con Material UI. te invito a ver mis proyectos!"
+  },
+  "AutoWrite": {
+    "lenguges": "<Lengujes: />",
+    "Proyects": "<Proyectos: />"
+  },
+  "contact": {"message":"<Contacto: />"}
+}
