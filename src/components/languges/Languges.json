@@ -1,0 +1,28 @@
+[
+  { "img": "src/imgs/CSS3.png", "textLenguage": "CSS", "lvl": ".Junior{  }" },
+  {
+    "img": "src/imgs/HTML5.png",
+    "textLenguage": "HTML5",
+    "lvl": ".Junior{  }"
+  },
+  {
+    "img": "src/imgs/javascript.png",
+    "textLenguage": "Javascript",
+    "lvl": ".Junior{  }"
+  },
+  {
+    "img": "src/imgs/react.png",
+    "textLenguage": "React",
+    "lvl": ".Junior{  }"
+  },
+  {
+    "img": "src/imgs/Redux.png",
+    "textLenguage": "Redux",
+    "lvl": ".Junior{  }"
+  },
+  {
+    "img": "src/imgs/MaterialUI.png",
+    "textLenguage": "Material UI",
+    "lvl": ".Junior{  }"
+  }
+]

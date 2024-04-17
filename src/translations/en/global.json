@@ -3,8 +3,12 @@
     "message": "Hello! I'm Mateo Iriso, a Systems Analyst student. I specialize in Frontend development, focusing on React with Material UI. I invite you to check out my projects."
   },
   "AutoWrite": {
-    "lenguges": "<Lenguges: />",
+    "languges": "<Lenguges: />",
     "Proyects": "<Proyects: />"
   },
-  "contact": {"message":"<Contact: />"}
+  "contact": { "message": "<Contact: />" },
+  "proyects": { "description": "Descripción: ", "languages": "Languages: " },
+  "travsky": {
+    "message": " The winner proyecto of the hackacode from TodoCode second edition. Page like booking."
+  }
 }

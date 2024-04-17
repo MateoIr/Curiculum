@@ -1,10 +1,14 @@
 {
   "AboutMe": {
-    "message": "Hola! Soy Mateo Iriso, estudiante de Analista en Sistemas. Estudiante especializado en Front end, me especializo en React con Material UI. te invito a ver mis proyectos!"
+    "message": "Hola! Soy Mateo Iriso, estudiante de Analista en Sistemas. Estudiante especializado en Front end, me especializo en React con Material UI. Te invito a ver mis proyectos!"
   },
   "AutoWrite": {
-    "lenguges": "<Lengujes: />",
+    "languges": "<Lengujes: />",
     "Proyects": "<Proyectos: />"
   },
-  "contact": {"message":"<Contacto: />"}
+  "contact": { "message": "<Contacto: />" },
+  "proyects": { "description": "Descripcion: ", "languages": "Lengujes: " },
+  "travsky": {
+    "message": "Descripcion: Proyecto Ganador de la hackacode de TodoCode segunda edición. Pagina estilo booking."
+  }
 }

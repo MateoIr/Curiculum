@@ -13,9 +13,15 @@ const Translate = () => {
     <>
       <IconButton sx={{ ml: 1 }} color="inherit">
         {language === "es" ? (
-          <TranslateIcon color="secondary" onClick={() => handleChangeLanguage("en")} />
+          <TranslateIcon
+            color="secondary"
+            onClick={() => handleChangeLanguage("en")}
+          />
         ) : (
-          <TranslateIcon color="secondary" onClick={() => handleChangeLanguage("es")} />
+          <TranslateIcon
+            color="secondary"
+            onClick={() => handleChangeLanguage("es")}
+          />
         )}
       </IconButton>
     </>

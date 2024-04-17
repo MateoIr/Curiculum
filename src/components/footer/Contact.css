@@ -1,0 +1,40 @@
+/* Estilos para los elementos que usan conteiner */
+.conteiner {
+  text-decoration: none;
+  margin-left: 2px; /* Para 'sm' */
+  margin-left: 0; /* Para 'md' */
+  display: flex;
+  flex-flow: row;
+  justify-content: flex-start; /* Para 'sm' */
+  justify-content: center; /* Para 'md' */
+  align-items: center;
+}
+
+/* Estilos para los elementos que usan conteinerMail */
+.conteinerMail {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Estilos para los elementos que usan logoConteiner */
+.logoConteiner {
+  background-color: grey;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  margin-right: 3px;
+}
+
+/* Estilos para los elementos que usan textConteiner */
+.textConteiner {
+  display: flex;
+  flex-flow: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  justify-items: initial;
+}

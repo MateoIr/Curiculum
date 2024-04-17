@@ -1,0 +1,17 @@
+{
+  "mail": { "name": "Mail", "linkPage": "mateoiriso@gmail.com" },
+  "others": [
+    {
+      "name": "Linkedin",
+      "linkPage": "https://www.linkedin.com/in/mateo-iriso-265174290/",
+      "icon": "LinkedInIcon",
+      "link": "linkedin.com/in/mateo-iriso-265174290/"
+    },
+    {
+      "name": "Github",
+      "linkPage": "https://github.com/MateoIr",
+      "icon": "GitHubIcon",
+      "link": "https://github.com/MateoIr"
+    }
+  ]
+}

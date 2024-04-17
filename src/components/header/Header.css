@@ -1,0 +1,17 @@
+.container {
+  position: fixed;
+  width: 100%;
+}
+
+.conteinerBox {
+  padding-top: 1px;
+  padding-right: 4px;
+  margin: 0;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+}
+
+.download {
+  margin: 1px;
+}
